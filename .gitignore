@@ -51,3 +51,6 @@ moodle-plugin-ci.phar
 /theme/remui
 /local/
 /admin/tool/memoq
+/config_itielang.php
+/config_itiheader.php
+/config_itimisc.php
